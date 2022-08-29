@@ -1,0 +1,15 @@
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.csproj.AssemblyReference.cache
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.AssemblyInfoInputs.cache
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.AssemblyInfo.cs
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.csproj.CoreCompileInputs.cache
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\bin\Debug\net6.0\Number2.exe
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\bin\Debug\net6.0\Number2.deps.json
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\bin\Debug\net6.0\Number2.runtimeconfig.json
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\bin\Debug\net6.0\Number2.dll
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\bin\Debug\net6.0\Number2.pdb
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.dll
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\refint\Number2.dll
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.pdb
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\Number2.genruntimeconfig.cache
+C:\Users\CLC\Desktop\memu2\pre\C#practice\Number2\Number2\obj\Debug\net6.0\ref\Number2.dll
