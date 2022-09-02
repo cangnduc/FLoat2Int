@@ -8,14 +8,13 @@ namespace Number1
         public static void Main(string[] agrs)
         {
             
-            
+            // Câu 1: chuyển 12.625 sang nhị phân floating point
             double num = 12.625;
             Cau1(num);
-            //1 10001010 01111101010000000000000
-            // kq = 0 10000010 10010100000000000000000
+           
+            // Câu 2: chuyển đổi từ 32 bit sang thập phân chấm động (-3050)
             string allstr = "11000101001111101010000000000000";
-            Console.WriteLine(allstr.Length);
-            //allstr = RemoveWhitespace(allstr);
+           
             Cau2(allstr);
 
         }
